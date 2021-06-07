@@ -11,18 +11,22 @@ large solar panels and an aft (canvas) section which provides weather
 and sun protection for the aft deck seating area.
 
 The canopy structure consists of four aluminium athwartship ribs
-supported at their ends on 38mm diameter GRP tubes. Rib 1 is
-immediately adjacent to the wheelhouse and its GRP uprights are fixed to
-the aft face of the wheelhouse with weight taken from below by the engine
-air intake coamings. The tube supports for Ribs 2, 3 and 4 locate into
-25mm gunwhale sockets via loose-fit 22mm terminal adapters. The weight
-of the canopy is carried on the 38mm tube and location is controlled by
-the terminal adapters that must be loose fit because their sockets are
-not in perfect vertical alignment.
+supported at their ends on 38mm diameter GRP tubes which insert into the
+each rib's aluminium tube.
+Rib 1 is immediately adjacent to the wheelhouse and its GRP uprights are
+fixed by tube clamps to the aft face of the wheelhouse with weight taken
+from below by the engine air intake coamings.
+The GRP tube supports for Ribs 2, 3 and 4 are terminated at their lower end
+by adapters which provide a short, 22mm, terminal plug which inserts into
+corresponding 25mm hull sockets and restricts movement of the tube in the
+horizontal plane whilst ensuring that the weight of the canopy is carried
+by the 38mm tube.
+The terminal adapters must be loose fit because the existing hull sockets
+are not in perfect vertical alignment.
 
 Ribs are tied together longitudinally by aluminium profile stringers.
 A peripheral "stringer" consisting of series of flat GRP plates
-establishes a rigid, contiguous,  "horizontal" perimeter for the canvas
+establishes a rigid, contiguous, horizontal, perimeter for the canvas
 hood. The canvas itself is stitched to a rubber U-profile which locates
 over the edge of the GRP plates. The canvas is tensioned by being pulled
 forwards against Rib 2.
