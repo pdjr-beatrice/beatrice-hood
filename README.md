@@ -15,12 +15,12 @@ of which terminates in sockets which accept the upper ends of 38mm diameter
 GRP tube supports.
 Rib 1 is immediately adjacent to the rear of the wheelhouse with the
 bottom end of its GRP supports bearing on the engine air intake coamings
-and the tubes fixed clamps to the aft face of the wheelhouse.
+and the tubes fixed by clamps to the aft face of the wheelhouse.
 The GRP tube supports for Ribs 2, 3 and 4 are terminated at their lower end
 by adapters which provide a short, 22mm, terminal plug that inserts into
 corresponding 25mm hull sockets, restricting movement of the tube in the
 horizontal plane whilst ensuring that the weight of the canopy is carried
-by the 38mm tube.
+by the 38mm tube which bears on the hull sockets' flange.
 The terminal adapters must be loose fit because the existing hull sockets
 are not in perfect vertical alignment.
 
